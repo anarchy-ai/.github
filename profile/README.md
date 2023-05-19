@@ -33,7 +33,7 @@ You provide the underlying provider(s), actions (APIs, code-hooks) and their des
 
 Connect with us on social media for exciting updates, discussions, and a glimpse behind the scenes:
 
-- 📸 [Github]([https://github.com/anarchy-ai/)
+- 📸 [Github](https://github.com/anarchy-ai/)
 - 🐦 [Twitter](https://twitter.com/awesomeproject)
 - 📘 [LinkedIn](https://linkedin.com/awesomeproject)
 
@@ -42,13 +42,15 @@ Connect with us on social media for exciting updates, discussions, and a glimpse
 
 Stay tuned for exciting milestones and important updates in the development of REBEL:
 
-- **2023-03-15**: Launched [chat.dev](https://chat.dev/)
-- **2023-04-10**: Launched this page!
+- **2022-05**: Started Extensional, Inc to build AGI from code search
+- **2022-10**: Accepted into YC
+- **2022-12**: Changed name to Anarchy, realizing the need for developer-first AGI development.
+- **2023-02**: Launched managed hosting at [chat.dev](https://chat.dev/)
+- **2023-5-01**: Closed a 2m seed round led by venrex, fellows.fund, amino, futureland ventures, and timothy chen.
 
 We're thrilled to share these accomplishments with our awesome community. Many more exciting milestones are yet to come!
 
-Feel free to explore the repository, submit bug reports, contribute code, or suggest new features. We believe in the power of collaboration and can't wait to see what we can achieve together! 😄🌟
-
+Feel free to explore the repositories, submit bugs, contribute code, or suggest new features. We believe in the power of collaboration and can't wait to see what we can achieve together! 😄🌟
 
 ## Organization
 
