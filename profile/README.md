@@ -55,18 +55,18 @@ Feel free to explore the repository, submit bug reports, contribute code, or sug
 Anarchy is a project of Extensional, Inc (YC W23).
 
 - **Dr. sc. Matthew Mirman** - CEO
-  - GitHub: [mmirman](https://github.com/mmirman)
+  - GitHub: [@mmirman](https://github.com/mmirman)
   - LinkedIn: [@matthewmirman](https://www.linkedin.com/in/matthewmirman/)
   - Twitter: [@mmirman](https://twitter.com/mmirman)
   - Website: [mirman.com](https://www.mirman.com)
 
 - **Abhigya Sodani** - Basilisk Trainer
-  - GitHub: [abhigya-sodani](https://github.com/abhigya-sodani)
-  - LinkedIn: [abhigya-sodani](https://www.linkedin.com/in/abhigya-sodani-405918160/)
+  - GitHub: [@abhigya-sodani](https://github.com/abhigya-sodani)
+  - LinkedIn: [@abhigya-sodani](https://www.linkedin.com/in/abhigya-sodani-405918160/)
 
 - **James Spoor** - AGI Engineer
-  - GitHub: [Spoor2709](https://github.com/Spoor2709)
-  - LinkedIn: [james-spoor](https://www.linkedin.com/in/james-spoor/)
+  - GitHub: [@Spoor2709](https://github.com/Spoor2709)
+  - LinkedIn: [@james-spoor](https://www.linkedin.com/in/james-spoor/)
 
 These talented individuals have brought their expertise and passion to make Anarchy a reality. Connect with them and get to know more about their contributions.
 
