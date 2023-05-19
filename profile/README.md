@@ -42,7 +42,7 @@ Connect with us on social media for exciting updates, discussions, and a glimpse
 
 Stay tuned for exciting milestones and important updates in the development of REBEL:
 
-- **2022-05**: Started Extensional, Inc to build AGI from code search
+- **2022-05**: Started as Extensional, Inc with the goal of building AGI from code search
 - **2022-10**: Accepted into YC
 - **2022-12**: Changed name to Anarchy, realizing the need for developer-first AGI development.
 - **2023-02**: Launched managed hosting at [chat.dev](https://chat.dev/)
@@ -53,8 +53,6 @@ We're thrilled to share these accomplishments with our awesome community. Many m
 Feel free to explore the repositories, submit bugs, contribute code, or suggest new features. We believe in the power of collaboration and can't wait to see what we can achieve together! 😄🌟
 
 ## Organization
-
-Anarchy is a project of Extensional, Inc (YC W23).
 
 - **Dr. sc. Matthew Mirman** - CEO
   - GitHub: [@mmirman](https://github.com/mmirman)
