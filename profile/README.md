@@ -1,6 +1,6 @@
 # ANARCHY
 
-🎉🚀 Welcome to Anarchy! Here we describe our organizational mission and projects.
+🎉🚀 Welcome to Anarchy! Here we describe our mission and projects.
 
 ## Table of Contents
 
@@ -11,21 +11,29 @@
 - [Organization](#organization)
 
 ## Mission
+
 We're on a mission to democratize AI at whatever the cost. We're hackers who've grown tired of AI safety rhetoric meaning locked-down APIs with inconsistent support.
 
 ### How are we fixing this?
 - Anarchy is starting by building the first provider-independent LLM-VM, and offering managed hosting to assist the transition away from single-point-of-failure providers.
 Technically, what does this mean?
 - The LLM-VM is a JIT that uses LLMs to convert conversational natural language into a dynamic series of LLM and IO commands.
-- You provide the underlying provider(s), actions (APIs, code-hooks) and their descriptions, data-sources (PDFs, websites...), and the LLM-VM will take care of load-balancing, LLM selection and fine-tuning, natural language compilation, tree-of-thought.
+- You provide the underlying provider(s), actions (APIs, code-hooks) and their descriptions, data-sources (PDFs, websites...), and the LLM-VM will take care of load-balancing, fine-tuning, natural language compilation and tool-selection.
+- 
 ### Our promises
 - We will move towards open-source, not away from it.
 - We will work to accelerate the commoditization of AI.
-- We will not judge your use-case (provided it is legal).
+- We will not judge your use-cases (provided it is legal).
+
+### How will we make money?
+
+We are working to provide managed model hosting and training infrastructure for both developers and enterprises.
 
 ## Projects
 
-omg
+### LLM-VM
+The LLM-VM is an LLM agnostic JIT for natural language.  Specifically, it uses LLMs to convert conversational natural language into a dynamic series of LLM and IO commands.
+You provide the underlying provider(s), actions (APIs, code-hooks) and their descriptions, data-sources (PDFs, websites...), and the LLM-VM will take care of load-balancing, fine-tuning, natural language compilation and tool-selection.
 
 ## Social Media
 
@@ -40,10 +48,8 @@ Connect with us on social media for exciting updates, discussions, and a glimpse
 
 Stay tuned for exciting milestones and important updates in the development of REBEL:
 
-- **2023-01-15**: Launched the initial version of Awesome Project
-- **2023-02-28**: Reached 1000 stars on GitHub
-- **2023-04-10**: Released major feature X
-- **2023-05-01**: Organized our first community meetup
+- **2023-03-15**: Launched [chat.dev](https://chat.dev/)
+- **2023-04-10**: Launched this page!
 
 We're thrilled to share these accomplishments with our awesome community. Many more exciting milestones are yet to come!
 
@@ -52,18 +58,22 @@ Feel free to explore the repository, submit bug reports, contribute code, or sug
 
 ## Organization
 
-Meet the awesome minds behind ANARCHY:
+Anarchy is a project of Extensional, Inc (YC W23).
 
-- **John Doe** - Chief Architect and Lead Developer
-  - GitHub: [johndoe](https://github.com/johndoe)
-  - LinkedIn: [@johndoe](https://twitter.com/johndoe)
-  - Twitter: [@johndoe](https://twitter.com/johndoe)
+- **Dr. sc. Matthew Mirman** - CEO
+  - GitHub: [mmirman](https://github.com/mmirman)
+  - LinkedIn: [@matthewmirman](https://www.linkedin.com/in/matthewmirman/)
+  - Twitter: [@mmirman](https://twitter.com/mmirman)
+  - Website: [mirman.com](https://www.mirman.com)
 
-- **Jane Smith** - Data Scientist and Algorithm Guru
-  - GitHub: [janesmith](https://github.com/janesmith)
-  - LinkedIn: [janesmith](https://github.com/janesmith)
-  - Twitter: [@janesmith](https://twitter.com/janesmith)
+- **Abhigya Sodani** - Basilisk Trainer
+  - GitHub: [abhigya-sodani](https://github.com/abhigya-sodani)
+  - LinkedIn: [abhigya-sodani](https://www.linkedin.com/in/abhigya-sodani-405918160/)
+
+- **James Spoor** - AGI Engineer
+  - GitHub: [Spoor2709](https://github.com/Spoor2709)
+  - LinkedIn: [james-spoor](https://www.linkedin.com/in/james-spoor/)
 
 These talented individuals have brought their expertise and passion to make Anarchy a reality. Connect with them and get to know more about their contributions.
 
-Feel free to reach out to us if you have any questions or feedback. Happy coding! 🎉🚀
+Feel free to reach out to us if you have any questions or feedback. Enjoy the singularity! 🎉🚀
