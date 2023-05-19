@@ -38,9 +38,10 @@ This is our managed hosting service for the LLM-VM.  Here you can create an opti
 
 Connect with us on social media for exciting updates, discussions, and a glimpse behind the scenes:
 
-- 📸 [Github](https://github.com/anarchy-ai/)
-- 🐦 [Twitter](https://twitter.com/awesomeproject)
-- 📘 [LinkedIn](https://linkedin.com/awesomeproject)
+- 📸 [enterprise solutions](https://anarchy.ai/)
+- 🐦 [Twitter](https://twitter.com/anarchy_ai_inc)
+- 📘 [LinkedIn](https://www.linkedin.com/company/anarchy-ai)
+- 🌟 [ycombinator](https://www.ycombinator.com/companies/anarchy)
 
 
 ## News
