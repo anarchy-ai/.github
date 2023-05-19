@@ -14,12 +14,6 @@
 
 We're on a mission to democratize AI at whatever the cost. We're hackers who've grown tired of AI safety rhetoric meaning locked-down APIs with inconsistent support.
 
-### How are we fixing this?
-- Anarchy is starting by building the first provider-independent LLM-VM, and offering managed hosting to assist the transition away from single-point-of-failure providers.
-Technically, what does this mean?
-- The LLM-VM is a JIT that uses LLMs to convert conversational natural language into a dynamic series of LLM and IO commands.
-- You provide the underlying provider(s), actions (APIs, code-hooks) and their descriptions, data-sources (PDFs, websites...), and the LLM-VM will take care of load-balancing, fine-tuning, natural language compilation and tool-selection.
-- 
 ### Our promises
 - We will move towards open-source, not away from it.
 - We will work to accelerate the commoditization of AI.
