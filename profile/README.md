@@ -45,7 +45,7 @@ Connect with us on social media for exciting updates, discussions, and a glimpse
 
 ## News
 
-Stay tuned for exciting milestones and important updates in the development of REBEL:
+Stay tuned for exciting milestones and important updates in the development of Anarchy:
 
 - **2022-05**: Started as Extensional, Inc with the goal of building AGI from code search
 - **2022-10**: Accepted into YC
