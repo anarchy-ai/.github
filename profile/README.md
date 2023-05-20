@@ -49,10 +49,8 @@ Connect with us on social media for exciting updates, discussions, and a glimpse
 Stay tuned for exciting milestones and important updates in the development of Anarchy:
 
 - **2022-05**: Started as Extensional, Inc with the goal of building AGI from code search
-- **2022-10**: Accepted into YC
-- **2022-12**: Changed name to Anarchy, realizing the need for developer-first AGI development.
+- **2022-12**: Changed name to Anarchy, realizing the need for developer-first AGI.
 - **2023-02**: Launched managed hosting at [chat.dev](https://chat.dev/)
-- **2023-5-01**: Closed a 2m seed round led by venrex, fellows.fund, amino, futureland ventures, and timothy chen.
 
 We're thrilled to share these accomplishments with our awesome community. Many more exciting milestones are yet to come!
 
