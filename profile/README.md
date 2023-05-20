@@ -65,7 +65,7 @@ Feel free to explore the repositories, submit bugs, contribute code, or suggest 
 
 ## Organization
 
-- **Dr. sc. Matthew Mirman** - CEO
+- **Matthew Mirman** - CEO
   - GitHub: [@mmirman](https://github.com/mmirman)
   - LinkedIn: [@matthewmirman](https://www.linkedin.com/in/matthewmirman/)
   - Twitter: [@mmirman](https://twitter.com/mmirman)
