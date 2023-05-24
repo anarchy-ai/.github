@@ -69,11 +69,11 @@ Feel free to explore the repositories, submit bugs, contribute code, or suggest 
   - Twitter: [@mmirman](https://twitter.com/mmirman)
   - Website: [mirman.com](https://www.mirman.com)
 
-- **Abhigya Sodani** - Basilisk Trainer
+- **Abhigya Sodani** - Research Intern
   - GitHub: [@abhigya-sodani](https://github.com/abhigya-sodani)
   - LinkedIn: [@abhigya-sodani](https://www.linkedin.com/in/abhigya-sodani-405918160/)
 
-- **James Spoor** - AGI Engineer
+- **James Spoor** - Contributor
   - GitHub: [@Spoor2709](https://github.com/Spoor2709)
   - LinkedIn: [@james-spoor](https://www.linkedin.com/in/james-spoor/)
 
