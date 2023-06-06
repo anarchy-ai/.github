@@ -58,11 +58,6 @@ We're thrilled to share these accomplishments with our awesome community. Many m
 
 Feel free to explore the repositories, submit bugs, contribute code, or suggest new features. We believe in the power of collaboration and can't wait to see what we can achieve together! 😄🌟
 
-## Jobs
-
-- For a list of current oppenings: https://www.ycombinator.com/companies/anarchy/jobs  
-- To apply in general: https://forms.gle/bUWDKW3cwZ8n6qsU8
-
 ## Organization
 
 - **Matthew Mirman** - CEO
@@ -81,13 +76,15 @@ Feel free to reach out to us if you have any questions or feedback. Enjoy the si
 
 ## Jobs
 
-We're always looking for serious hackers.  Prove that you can build and creatively solve hard problems and reach out! 
+- We're always looking for serious hackers.  Prove that you can build and creatively solve hard problems and reach out! 
 
-For an up-to-date list of jobs, check out [ycombinator](https://www.ycombinator.com/companies/anarchy/jobs)
+- For an up-to-date list of jobs, check out [ycombinator](https://www.ycombinator.com/companies/anarchy/jobs)
 
-The easiest way to get a job/internship with us is to submit a pull request that closes a ticket.
+- The easiest way to secure a job/internship with us is to submit a pull request that closes a ticket.
 
-The second easiest is to submit good tickets.  
+- The second easiest is to submit good tickets.  
+
+- To apply directly: https://forms.gle/bUWDKW3cwZ8n6qsU8
 
 ## Bounty
 
