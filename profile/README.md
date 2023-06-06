@@ -9,6 +9,7 @@
 - [Social Media](#social-media)
 - [News](#news)
 - [Organization](#organization)
+- [Jobs](#jobs)
 
 ## Mission
 
@@ -73,10 +74,20 @@ Feel free to explore the repositories, submit bugs, contribute code, or suggest 
   - GitHub: [@abhigya-sodani](https://github.com/abhigya-sodani)
   - LinkedIn: [@abhigya-sodani](https://www.linkedin.com/in/abhigya-sodani-405918160/)
 
-- **James Spoor** - Contributor
-  - GitHub: [@Spoor2709](https://github.com/Spoor2709)
-  - LinkedIn: [@james-spoor](https://www.linkedin.com/in/james-spoor/)
-
 These talented individuals have brought their expertise and passion to make Anarchy a reality. Connect with them and get to know more about their contributions.
 
 Feel free to reach out to us if you have any questions or feedback. Enjoy the singularity! 🎉🚀
+
+## Jobs
+
+We're always looking for serious hackers.  Prove that you can build and creatively solve hard problems and reach out! 
+
+For an up-to-date list of jobs, check out [ycombinator](https://www.ycombinator.com/companies/anarchy/jobs)
+
+The easiest way to get a job/internship with us is to submit a pull request that closes a ticket.
+
+The second easiest is to submit good tickets.  
+
+## Bounty
+
+We pay up to $100 for closing tickets. 
