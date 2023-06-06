@@ -10,6 +10,7 @@
 - [News](#news)
 - [Organization](#organization)
 - [Jobs](#jobs)
+- [Bounty](#bounty)
 
 ## Mission
 
