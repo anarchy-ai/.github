@@ -77,14 +77,9 @@ Feel free to reach out to us if you have any questions or feedback. Enjoy the si
 ## Jobs
 
 - We're always looking for serious hackers.  Prove that you can build and creatively solve hard problems and reach out! 
-
-- For an up-to-date list of jobs, check out [ycombinator](https://www.ycombinator.com/companies/anarchy/jobs)
-
 - The easiest way to secure a job/internship with us is to submit a pull request that closes a ticket.
-
-- The second easiest is to submit good tickets.  
-
-- To apply directly: https://forms.gle/bUWDKW3cwZ8n6qsU8
+- The second easiest is to submit good tickets.
+- Otherwise, to apply directly: https://forms.gle/bUWDKW3cwZ8n6qsU8
 
 ## Bounty
 
