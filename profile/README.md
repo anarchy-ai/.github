@@ -84,4 +84,4 @@ Feel free to reach out to us if you have any questions or feedback. Enjoy the si
 
 ## Bounty
 
-We pay up to $100 for closing tickets. 
+Some tickets we'll pay you for closing! Look at the ticket labels to see how much the bounty is.  Note we can't guarantee that if you close a ticket we can pay you (only if you are from a non-US sanctioned country), and it is up to you to reach out and provide bank details. 
