@@ -40,7 +40,7 @@ This is our managed hosting service for the LLM-VM.  Here you can create an opti
 
 Connect with us on social media for exciting updates, discussions, and a glimpse behind the scenes:
 
-- 😈 [discord](https://discord.gg/qaFf7S373c) Our OSS development server.  Come discuss organization and ideas here!
+- 😈 [discord](https://discord.com/invite/anarchy-ai) Our OSS development server.  Come discuss organization and ideas here!
 - 📸 [enterprise solutions](https://anarchy.ai/)
 - 🐦 [Twitter](https://twitter.com/anarchy_ai_inc)
 - 📘 [LinkedIn](https://www.linkedin.com/company/anarchy-ai)
