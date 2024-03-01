@@ -1,6 +1,6 @@
-# ANARCHY
+# ANARCHY LABS
 
-🎉🚀 Welcome to Anarchy! Here we describe our mission and projects.
+🎉🚀 Welcome to Anarchy Labs! Here we describe our mission and projects.
 
 ## Table of Contents
 
